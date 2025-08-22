@@ -18,3 +18,32 @@ scientific-bot/
 │  │── fun.py # Curiosidades e entretenimento
 │ ── utils/ # Funções auxiliares
 ```
+
+
+## ⚙️ Instalação
+
+### 1. Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/scientific-bot.git
+cd scientific-bot
+
+```
+
+## 2. Crie um ambiente Virtual (recomendado)
+```bash
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+
+```
+
+## 3. Instale as dependências
+
+```python
+pip install -r requirements.txt
+```
+
+
+## 📜 Licença
+Projeto open-source para fins de estudo e aprendizado.
+Sinta-se à vontade para melhorar e contribuir. ✨
